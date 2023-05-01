@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers: Endgame (2019)",
+      "average": 9.2,
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae dicta, at enim numquam pariatur ab itaque consequuntur odio voluptas a quisquam fuga temporibus, perspiciatis et laboriosam perferendis quibusdam sed!",
+      "imageUrl": "https://img.elo7.com.br/product/original/2678F78/cartaz-poster-vingadores-4-ultimato-filme-marvel-avengers-colecionador.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Capitão América: Guerra Civil (2016)",
+      "average": 8.7,
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae dicta, at enim numquam pariatur ab itaque consequuntur odio voluptas a quisquam fuga temporibus, perspiciatis et laboriosam perferendis quibusdam sed!",
+      "imageUrl": "https://img.elo7.com.br/product/zoom/2664EEC/big-poster-filme-capitao-america-guerra-civil-lo03-90x60-cm-vingadores.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Guardiões da Galáxia (2014)",
+      "average": 8.9,
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae dicta, at enim numquam pariatur ab itaque consequuntur odio voluptas a quisquam fuga temporibus, perspiciatis et laboriosam perferendis quibusdam sed!",
+      "imageUrl": "https://img.elo7.com.br/product/original/267708A/big-poster-filme-guardioes-da-galaxia-2-lo02-tam-90x60-cm-guardioes-da-galaxia.jpg"
+    }
+  ]
+}
